@@ -1,0 +1,16 @@
+body {
+    font-size: 16px;
+    font-style: italic;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 65px;
+    color: orange;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+.modify-1 {
+    background-color: lightblue;
+}
